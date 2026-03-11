@@ -25,9 +25,8 @@ The dashboard provides executive-level insights into:
 • Executive summary page
 
 ## Dashboard Preview
-
-![Dashboard](dashboard1.png)
-![Dashboard](dashboard2.png)
+![dashboard01](https://github.com/user-attachments/assets/b159c211-2045-44f6-bab4-6425daed228d)
+![dashboard2](https://github.com/user-attachments/assets/84ac1d68-a21f-4d06-9f55-9fa8e0b962db)
 
 ## Files Included
 RetailCo_Sales_Dashboard.pbix – Full Power BI project file
