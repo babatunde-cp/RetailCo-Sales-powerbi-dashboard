@@ -32,6 +32,22 @@ The dashboard provides executive-level insights into:
 ## Files Included
 RetailCo_Sales_Dashboard.pbix – Full Power BI project file
 
+## Business Questions Answered
+
+1. Which stores generate the highest revenue?
+2. How do discounts affect profit margins?
+3. Which regions drive the most sales?
+4. How does sales performance change over time?
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Modeling
+- DAX Calculations
+- KPI Design
+- Business Insight Generation
+- Visual Optimization
+
 ## Insights
 - Top performing stores contribute a significant share of revenue
 - September recorded highest reveneue (487.4M), showing high demand in Q3
